@@ -37,7 +37,7 @@ Supported File Formats
 
 - **Product page:** [Syncfusion Word Framework](https://www.syncfusion.com/document-processing/word-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 - **Documentation:** [Encrypt and Decrypt the Word documents](https://help.syncfusion.com/file-formats/docio/working-with-security?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **GitHub Examples:** [Encrypt and Decrypt examples](https://github.com/SyncfusionExamples/DocIO-Examples/tree/main/Security?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **GitHub Examples:** [Syncfusion Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 - **Online demo:** [Syncfusion Word library - Online demos](https://ej2.syncfusion.com/aspnetcore/Word/SalesInvoice#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 
 ## Support and feedback
