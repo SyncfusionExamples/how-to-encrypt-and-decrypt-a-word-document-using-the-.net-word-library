@@ -2,8 +2,8 @@
 A quick start project that shows how to Encrypt and Decrypt a Word document using the Syncfusion [.NET Word library](https://www.syncfusion.com/document-processing/word-framework/net/word-library?utm_source=github&utm_medium=listing&utm_campaign=github-docio-video-examples).
 
 ## Key Features
--	[Encrypt](https://help.syncfusion.com/file-formats/docio/working-with-security?utm_source=github&?utm_source=github&utm_medium=listing&utm_campaign=github-docio-video-examples#encrypting-with-password) a Word document 
--	[Decrypt](https://help.syncfusion.com/file-formats/docio/working-with-security?utm_source=github&utm_medium=listing&utm_campaign=github-docio-video-examples#remove-encryption) a Word document  
+-	Encrypt a Word document 
+-	Decrypt a Word document  
 
 ## Syncfusion .NET Word Library
 The Syncfusion DocIO is a [.NET Word library](https://www.syncfusion.com/document-processing/word-framework/net/word-library?utm_source=github&utm_medium=listing&utm_campaign=github-docio-video-examples) allows you to add advanced Word document processing functionalities to any .NET application and does not require Microsoft Word application to be installed in the machine. It is a non-UI component that provides a full-fledged document instance model similar to the Microsoft Office COM libraries to iterate with the document elements explicitly and perform necessary manipulation. 
